@@ -1,0 +1,116 @@
+Produced by:
+Kennesaw State University Realities Lab
+
+Faculty:
+Dr. Joy Li
+Dr. Yan Huang
+
+Student Developers:
+John Murphy
+Connor McClelland
+Andre Bryan
+
+Logan Thompson
+Chase Randalow
+Grant Reeder
+Johnathan Lee
+
+Samuel Ayeni
+Rahman Nafiu
+Kawika Hodge
+Guadalupe Ramirez
+
+Phillip Yniguez
+
+Kylie Nowokunski
+Neil Weingarten
+Tyler Crawford
+JaDante Hendrick
+
+Krystale Williams
+Ian Skoonberg
+Antonio Brewer
+Kalil Masters
+Michael Leung
+Aiden Gohlke
+Sam Deason
+Scott Halbert
+Jaeleon Merrill
+
+Asset Accreditation:
+
+Audio:
+
+Deep Voice AI, AIKodex,
+https://assetstore.unity.com/packages/tools/generative-ai/deepvoice-ai-text-to-voice-251738
+
+Lofi Jazz Organ Loop 95 BPM, holizna, 
+https://freesound.org/people/holizna/sounds/629154/
+
+80s Loop #5, danlucaz, 
+https://freesound.org/people/danlucaz/sounds/515367/
+
+Loop_InterstellarHero_01, LittleRobotSoundFactory, 
+https://freesound.org/people/LittleRobotSoundFactory/sounds/323959/
+
+Groove Music, Lemoncreme, 
+https://freesound.org/people/Lemoncreme/sounds/203099/
+
+Game-Music-01, Michael-DB, 
+https://freesound.org/people/Michael-DB/sounds/489035/ 
+
+fireball-cast-1, LiamG_SFX, 
+https://freesound.org/people/LiamG_SFX/sounds/334234/
+
+Skybox:
+
+AllSkyFree, rpgwhitelock, 
+https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
+
+StarFieldSkybox, PULSAR BYTES, 
+https://assetstore.unity.com/packages/2d/textures-materials/sky/starfield-skybox-92717
+
+Textures:
+
+BlackVariant, JohnFarmer, 
+https://assetstore.unity.com/packages/2d/gui/keyboard-keys-mouse-sprites-225232
+
+Models and NPC's:
+
+CyberPunk Interior, GYP Studios, 
+https://assetstore.unity.com/packages/3d/environments/sci-fi/cyberpunk-interior-low-poly-216244
+
+Low Poly Nature, cjames, 
+https://assetstore.unity.com/packages/3d/props/low-poly-nature-mega-pack-138039
+
+PolygonCity, Synty Studios, 
+https://assetstore.unity.com/packages/3d/environments/urban/polygon-city-low-poly-3d-art-by-synty-95214
+
+PolygonScifiCity, Synty Studios, 
+https://assetstore.unity.com/packages/3d/environments/sci-fi/polygon-sci-fi-city-low-poly-3d-art-by-synty-115950
+
+PolygonKnights, Synty Studios, 
+https://assetstore.unity.com/packages/3d/environments/fantasy/polygon-knights-low-poly-3d-art-by-synty-83694
+
+PolygonSciFiSpace, Synty Studios, 
+https://assetstore.unity.com/packages/3d/environments/sci-fi/polygon-sci-fi-space-low-poly-3d-art-by-synty-138857 
+
+PolygonAdventure, Synty Studios, 
+https://assetstore.unity.com/packages/3d/environments/fantasy/polygon-adventure-low-poly-3d-art-by-synty-80585
+
+polygonShops, Synty Studios, 
+https://assetstore.unity.com/packages/3d/environments/urban/polygon-shops-pack-low-poly-3d-art-by-synty-199026
+
+PolygonPirates, Synty Studios,
+https://assetstore.unity.com/packages/3d/environments/historic/polygon-pirates-low-poly-3d-art-by-synty-92579
+
+SimpleShopInteriors, Synty Studios, 
+https://assetstore.unity.com/packages/3d/props/interior/simple-shop-interiors-cartoon-assets-38029
+
+VirusPack_01, Linder Media, 
+https://assetstore.unity.com/packages/3d/props/low-poly-virus-pack-01-164864
+
+Shaders: 
+
+Toony Colors Pro 2, Jean Moreno,
+https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105
